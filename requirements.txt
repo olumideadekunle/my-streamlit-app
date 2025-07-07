@@ -1,0 +1,3 @@
+my-streamlit-app/
+├── app.py
+├── requirements.txt ✅
